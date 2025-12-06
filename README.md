@@ -22,7 +22,7 @@ An interactive Power BI dashboard analyzing ecommerce business performance.
 
 ---
 
-## 📁 **3. Healthcare Risk Factor Dashboard**
+## 📁 **2. Healthcare Risk Factor Dashboard**
 ### 🔹 Files Included:
 - `Health care risk factor.png`
 
@@ -37,6 +37,26 @@ A visualization-focused health analytics project highlighting key risk factors a
 
 ---
 
+## 📊 Project 3: Sales Performance Dashboard
+**Dataset:** `sales_data.csv`  
+**Notebook:** `sales_analysis.ipynb`  
+**Skills:** Data cleaning, EDA, revenue trends, outlier detection.
+
+---
+
+## 🔁 Project 4: Customer Churn Analysis
+**Dataset:** `churn_data.csv`  
+**Notebook:** `churn_analysis.ipynb`  
+**Skills:** Feature engineering, churn detection, retention metrics.
+
+---
+
+## 🧑‍💼 Project 5: HR Analytics & Attrition Analysis
+**Dataset:** `hr_data.csv`  
+**Notebook:** `hr_analysis.ipynb`  
+**Skills:** Attrition patterns, salary analysis, performance insights.
+
+---
 ## 🚀 **About Me**
 Aspiring **Data Analyst** skilled in:
 
